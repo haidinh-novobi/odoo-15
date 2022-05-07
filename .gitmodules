@@ -2,3 +2,8 @@
 	path = ForgeFlow/stock-rma
 	url = git@github.com:ForgeFlow/stock-rma.git
 	branch = 15.0
+
+[submodule "OCA/stock-logistics-workflow"]
+	path = OCA/stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow.git
+	branch = 15.0
