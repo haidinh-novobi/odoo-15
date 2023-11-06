@@ -1,0 +1,4 @@
+[submodule "OCA/manufacture-reporting"]
+	path = OCA/manufacture-reporting
+	url = git@github.com:OCA/manufacture-reporting.git
+	branch = 15.0
